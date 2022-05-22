@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-citas/static/css/main.c5945779.css",
+    "main.js": "/react-citas/static/js/main.5b31b55a.js",
+    "static/js/787.9db30d1f.chunk.js": "/react-citas/static/js/787.9db30d1f.chunk.js",
+    "index.html": "/react-citas/index.html",
+    "main.c5945779.css.map": "/react-citas/static/css/main.c5945779.css.map",
+    "main.5b31b55a.js.map": "/react-citas/static/js/main.5b31b55a.js.map",
+    "787.9db30d1f.chunk.js.map": "/react-citas/static/js/787.9db30d1f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c5945779.css",
+    "static/js/main.5b31b55a.js"
+  ]
+}
